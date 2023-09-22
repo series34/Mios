@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQry2DhUbQZu41XeLfPupxP_F4xea9KsXIDKw&usqp=CAU", FLASH
+
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSewMbn5LqcUxi6zwGoLnw8LfbiJqsHV8I-tQ&usqp=CAU", EL REGRESO DE LA NANA MAGICA 
 https://drive.usercontent.google.com/download?id=1caBY5WUcgAJFzJHMJCKm8kNbgM3jAPe2&export=download&authuser=0&confirm=t&uuid=a0b17a81-fd73-4129-808d-e3692b794fce&at=APZUnTUiutUnONo1aCHuevFzmJwe:1695379093313
 #EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/23/04/27/15/42/3990293.jpg", TRANSFORMERS EL DESPERTAR DE LAS BESTIAS 
