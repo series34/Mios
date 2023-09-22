@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXwnaaMkhJnWBHFlJgbGVFVNC6fVcgzeTygQ&usqp=CAU", TREMORS
+https://drive.usercontent.google.com/download?id=1xokgRakXoCxLE0Ye2KxiqPsBqtL0bxi8&export=download&authuser=0&confirm=t&uuid=34cdb9fa-9b28-493a-9a1f-f6bd4d21cb65&at=APZUnTWLtpfeiMmrw6m5pdFwazal:1695379389448
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ66hqA1KJfWduj13zcu_0PcJegBJ0xxr1JDg&usqp=CAU", KING KONG
 https://drive.usercontent.google.com/download?id=17ycIiBz7OjzW_XVq93rZ01_NaHCyKkkF&export=download&authuser=0&confirm=t&uuid=776b9ac8-6a3b-4bf7-b493-05ae1bd5074f&at=APZUnTUlDnQCEs7Jp1c3nBPrNMJA:1695379236118
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC6ngnRH9SNKSGX9S0Hv8AlmnUBDb50iQz6A&usqp=CAU", LA VIDA DE PI
